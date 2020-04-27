@@ -9,7 +9,7 @@ a {
 }
 
 figure {
-  display inline;
+  display: inline;
 }
 
 /*#featured-property {
