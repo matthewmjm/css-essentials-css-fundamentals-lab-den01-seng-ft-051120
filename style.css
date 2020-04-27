@@ -29,13 +29,8 @@ a::visited {
 img {
   display: inline;
 
-#featured-property {
+p #featured-property {
+  
   
 }
 
-}
-
-#details {
-  text-align: center;
-  
-}
