@@ -28,5 +28,6 @@ a::visited {
 
 img {
   display: inline;
+  margin: auto;
 
 }
