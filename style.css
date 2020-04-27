@@ -35,11 +35,12 @@ figcaption {
 
 #details div {
   display: inline-block;
+  text-allign: center;
   margin: auto;
 }
 
 #details p {
-  text-allign: center;
+
 }
 
 
