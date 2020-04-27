@@ -28,10 +28,11 @@ a::visited {
 
 img {
   display: inline;
-  margin: auto;
+
 
 }
 
 #details {
+  text-align: center;
   
 }
