@@ -19,7 +19,7 @@ figcaption {
 }
 
 #featured-property {
-  padding-bottom: 30px;
+  padding-bottom: 5px;
 }
 
 #featured-property p {
@@ -27,6 +27,7 @@ figcaption {
   text-align: center;
   display: block;
   margin: 0 auto;
+  padding: 12px;
 } 
 
 #details div {
