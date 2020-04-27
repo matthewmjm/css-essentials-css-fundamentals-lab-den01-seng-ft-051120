@@ -8,6 +8,10 @@ a {
   background: #D1DEE8;
 }
 
+figure {
+  margin: auto;
+}
+
 /*#featured-property {
   width: 800px;
   text-align: center;
