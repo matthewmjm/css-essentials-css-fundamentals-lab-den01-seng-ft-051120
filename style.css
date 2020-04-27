@@ -25,6 +25,10 @@ figcaption {
   margin: 0 auto;
 } 
 
+#details {
+  background-color: #EB2B10;
+}
+
 #details div {
   display: inline-block;
   margin: auto;
