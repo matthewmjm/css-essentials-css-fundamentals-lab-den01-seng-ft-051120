@@ -38,6 +38,11 @@ figcaption {
   margin: auto;
 }
 
+#details p {
+  text-allign: center;
+}
+
+
 #details a {
   background-color: #EB2B10;  
 }
