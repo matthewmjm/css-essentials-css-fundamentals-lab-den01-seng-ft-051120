@@ -38,3 +38,6 @@ figcaption {
   margin: auto;
 }
 
+#details a {
+  background-color: #EB2B10;  
+}
